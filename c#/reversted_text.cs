@@ -8,6 +8,7 @@ void Enter_Sentence()
 
     Print_Reverse(text);
 }
+
 void Print_Reverse(string text)
 {
     string reversted_text = "";
