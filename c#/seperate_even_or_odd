@@ -1,3 +1,6 @@
+using System;
+
+
 void Nums_Count_Info()
 {
     Console.Write("How many different numbers will be entered: ");
